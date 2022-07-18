@@ -7,9 +7,9 @@
 
 A mechanical engineer specializing in AWS cloud services. Experience with the technologies listed in the toolbox below.
 
-This repository is being used to document my journey on getting a better foundational knowledge of DevOps ,AWS Services, and Foundational Networking.
+This repository is being used to document my journey on getting a better foundational knowledge of DevOps, AWS Services, and Computer Networking.
 
-I attempt to create tech content, mostly about Web Development and Python, SQL, AWS Services & Linux.
+📫 How to reach me: https://www.linkedin.com/in/cristian-cloud/
 
 ---
 🧰 Toolbox
