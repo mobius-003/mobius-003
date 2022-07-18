@@ -19,32 +19,13 @@ This repository is being used to document my journey on getting a better foundat
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform logo" width="50" height="50"/>
 
 ---
+:bar_chart: Statistics 
 
-Statistics 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobius-003&theme=github_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobius-003&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mobius-003&theme=github_dark)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobius-003&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobius-003&theme=dracula&utcOffset=8) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mobius-003&theme=dracula) 
-
-<!--
-**mobius-003/mobius-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobius-003&theme=github_dark) 
 
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
