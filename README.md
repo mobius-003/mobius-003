@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Cristian Moza! 
+![GitHub search hit counter](https://img.shields.io/github/search/mobius-003/SAP/goto?label=viewers%20of%20SAP%20repo&style=flat-square)
 
 <!--
 **mobius-003/mobius-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
