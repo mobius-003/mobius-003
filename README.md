@@ -10,6 +10,8 @@ This repository is being used to document my journey on getting a better foundat
 
 :memo: Website: https://cristian-ml.cloud/
 
+:book: Resume: https://cmresume.cr1st1anlinux.net/
+
 ---
 🧰 Toolbox
 
