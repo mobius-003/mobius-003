@@ -2,15 +2,8 @@
 
 ---
 
-A mechanical engineer specializing in AWS cloud services. Experience with the technologies listed in the toolbox below.
-
+A mechanical engineer specializing in AWS cloud services. 
 This repository is being used to document my journey on getting a better foundational knowledge of DevOps, AWS Services, and Computer Networking.
-
-📫 How to reach me: https://www.linkedin.com/in/cristian-cloud/
-
-:memo: Website: https://cristian-ml.cloud/
-
-:book: Resume: https://cmresume.cr1st1anlinux.net/
 
 ---
 🧰 Toolbox
