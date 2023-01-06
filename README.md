@@ -2,7 +2,6 @@
 
 ---
 
-A mechanical engineer specializing in AWS cloud services. 
 This repository is being used to document my journey on getting a better foundational knowledge of DevOps, AWS Services, and Computer Networking.
 
 ---
