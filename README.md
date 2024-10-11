@@ -2,7 +2,7 @@
 
 ---
 
-This repository is being used to document my journey on getting a better foundational knowledge of DevOps, AWS Services, and Computer Networking.
+This repository is being used to document my journey on getting a better foundational knowledge of Dev
 
 ---
 🧰 Toolbox
